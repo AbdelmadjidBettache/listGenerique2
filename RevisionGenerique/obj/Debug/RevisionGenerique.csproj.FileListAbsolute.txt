@@ -1,0 +1,15 @@
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\bin\Debug\RevisionGenerique.exe.config
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\bin\Debug\RevisionGenerique.exe
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\bin\Debug\RevisionGenerique.pdb
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.exe
+C:\Users\Bmadj\source\repos\C #2\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.pdb
+C:\Users\Bmadj\source\repos\C #2\MyRevision\RevisionGenerique\RevisionGenerique\bin\Debug\RevisionGenerique.exe.config
+C:\Users\Bmadj\source\repos\C #2\MyRevision\RevisionGenerique\RevisionGenerique\bin\Debug\RevisionGenerique.exe
+C:\Users\Bmadj\source\repos\C #2\MyRevision\RevisionGenerique\RevisionGenerique\bin\Debug\RevisionGenerique.pdb
+C:\Users\Bmadj\source\repos\C #2\MyRevision\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #2\MyRevision\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #2\MyRevision\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.exe
+C:\Users\Bmadj\source\repos\C #2\MyRevision\RevisionGenerique\RevisionGenerique\obj\Debug\RevisionGenerique.pdb
